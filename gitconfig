@@ -1,0 +1,12 @@
+[user]
+	name = Amber
+	email = ambra@seas.upenn.edu
+[core]
+	autocrlf = input
+	safecrlf = true
+[color]
+	ui = true
+[push]
+	default = simple
+[alias]
+	ci = commit 
